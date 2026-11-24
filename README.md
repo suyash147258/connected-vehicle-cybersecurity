@@ -4,7 +4,7 @@ This repository contains a LaTeX research-style article and a small offline Pyth
 
 ## Files
 
-- `main.tex` — article source (two-column academic layout)
+- `main.tex` — article source (11-point academic layout designed to run approximately seven pages in the included PDF/LaTeX setup)
 - `references.bib` — bibliography database
 - `src/can_log_checker.py` — offline CSV sanity checker for CAN logs
 - `data/sample_can_log.csv` — synthetic demonstration data
